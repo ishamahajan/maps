@@ -1,0 +1,13 @@
+.pin-info {
+  background-color: white;
+  width: 250px;
+  height: 300px;
+  word-break: break-word;
+  float: right;
+}
+
+.pin-detail {
+  display: block;
+  text-align: left;
+  margin-left: 5px;
+}
